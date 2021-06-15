@@ -1,0 +1,23 @@
+{
+  "id": "2568429",
+  "name": "luckin",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "12755271",
+      "name": "心 爱心",
+      "font_class": "xinaixin",
+      "unicode": "e612",
+      "unicode_decimal": 58898
+    },
+    {
+      "icon_id": "19190265",
+      "name": "加号",
+      "font_class": "jia",
+      "unicode": "e601",
+      "unicode_decimal": 58881
+    }
+  ]
+}
